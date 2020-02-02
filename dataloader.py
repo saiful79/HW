@@ -1,7 +1,7 @@
 ################################################################################
 # Discription             : load data from json file and preprocess
 # Author                  : Saiful islam
-# Copyright               : Semanticslab.net
+# Copyright               : saifulbrur79@gmail.cpm
 # SPDX-License-Identifier : Apache-2.0
 ################################################################################
 
